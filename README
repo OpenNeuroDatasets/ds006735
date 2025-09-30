@@ -12,6 +12,8 @@ Data collected from Sep to Nov, 2023.
 
 The details of the experiment can be found at Shan et al. (2024). There were two phases in this experiment. For the first phase, ten trials of one-minute clicks were presented to the subjects. For the second phase, the 2 types of monophonic music (original and chimeric) clips were presented. There were 33 trials for each type with shuffled order. Between trials, there was a 0.5 s pause.
 
+The code for analysis for this study can be found in GitHub repo (https://github.com/maddoxlab/Chimeric_music).
+
 
 # Format
 This dataset is formatted according to the EEG Brain Imaging Data Structure. It includes EEG recording from subject 001 to subject 027 in raw brainvision format (including .eeg, .vhdr, and .vmrk triplet).
